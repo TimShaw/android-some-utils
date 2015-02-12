@@ -15,5 +15,5 @@ Android Server
 
 android-framework
 ==============
-some android uitl classes
-such as ,in android-framework/src/com/airshiplay/framework/util/NinePatchTool.java is NinePatch utils, decodeDrawableFromStream
+some android uitl classes.
+such as in android-framework/src/com/airshiplay/framework/util/NinePatchTool.java is NinePatch utils, decodeDrawableFromStream
